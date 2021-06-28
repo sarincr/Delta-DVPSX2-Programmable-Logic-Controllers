@@ -1,2 +1,2 @@
-# Delta-DVPSX2---Programmable-Logic-Controllers---
-The DVP-SX2 Series is a thin type PLC with 14 digital points and built-in 12-bit analogue I/O. It is the second version of the DVP-SX2 Series. It may be expanded with left- and right-side expansion modules from the DVP-S series.  
+# Delta-DVPSX2---Programmable-Logic-Controllers
+The DVP-SX2 Series is a thin type PLC with 14 digital points and built-in 12-bit analogue I/O. It is the second version of the DVP-SX2 Series. It may be expanded with left- and right-side expansion modules from the DVP-S series. A programmable logic controller, also known as a programmable controller, is a ruggedized and adapted industrial computer that is used to control manufacturing processes such as assembly lines, machines, robotic devices, or any activity that requires high reliability, ease of programming, and process fault diagnosis.
